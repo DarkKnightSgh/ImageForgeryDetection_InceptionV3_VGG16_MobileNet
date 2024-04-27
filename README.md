@@ -1,13 +1,13 @@
-*** Image Forgery Detection using InceptionV3,VGG16, MobileNetV2
+Image Forgery Detection using InceptionV3,VGG16, MobileNetV2
 
 
-*** DATASET:
+DATASET:
 The Dataset used for training purposes is CASIA 2.0. It contains 12560 images, out of which 7437 are authentic and 5123 are forged or tampered. We have also created a dataset , consisting of 202 images, similar to the CASIA dataset in order to test the model. The domain chosen for generating the dataset is Wildlife. We have taken 101 Authentic Wildlife images and used the images to create 101 Tampered images by applying the Splicing method, using Photopea Software.
 
-*** METHODOLOGY:
+METHODOLOGY:
 The proposed methodology involves leveraging the power of CNN based architectures like InceptionV3, VGG16, and MobileNetV2 for Image Forgery Detection. Error Level Analysis (ELA) serves as an initial screening mechanism, offering insights into potential image tampering and manipulation.
 
-*** RESULT:
+RESULT:
 Technique        -    Fusion Model (InceptionV3 + VGG16 + MobileNetV2)
 Test Accuracy    -    85%
 Test Loss        -    33.9%
