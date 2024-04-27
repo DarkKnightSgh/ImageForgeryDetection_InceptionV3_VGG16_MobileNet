@@ -1,4 +1,4 @@
-Image Forgery Detection using InceptionV3,VGG16, MobileNetV2
+**IMAGE FORGERY DETECTION USING InceptionV3,VGG16, MobileNetV2**
 
 
 DATASET:
